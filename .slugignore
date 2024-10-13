@@ -1,5 +1,6 @@
-/test
-/docs
-/log
-/temp
-/spec
+*.md
+*.txt
+tests/
+docs/
+.git/
+.env
