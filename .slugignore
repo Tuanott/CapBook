@@ -1,6 +1,2 @@
-*.md
-*.txt
-tests/
-docs/
-.git/
-.env
+/test
+/spec
